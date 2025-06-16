@@ -16,7 +16,7 @@ Until one has loved an animal, a part of one's soul remains unawakened.
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
-![preview](./.github/preview.png)
+![preview](.github/preview.png)
 <br>
 
 Nós acreditamos profundamente nisso, e também acreditamos que o acesso a conteúdos que fazem bem para a mente, o corpo e o espírito deve ser simples, bonito e funcional.

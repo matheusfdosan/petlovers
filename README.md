@@ -25,6 +25,7 @@ Nós acreditamos profundamente nisso, e também acreditamos que o acesso a conte
 
 **PetLovers** é um blog desenvolvido para compartilhar nosso PetShop, cuidados e amor pelos animais. O foco está na experiência do usuário, com uma interface responsiva, fluida e repleta de animações sutis que tornam a navegação mais agradável.
 
+Veja o projeto online: https://petlovers-blog.netlify.app/
 Fonte do Projeto: https://www.youtube.com/watch?v=5tpX4iTdg5A
 
 ## 🧪 Tecnologias Utilizadas
